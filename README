@@ -1,4 +1,7 @@
-This is your new Play 2.1 application
+Personal API - Java
 =====================================
 
-This file will be packaged with your application, when using `play dist`.
+This is an API project for the Personal API that I am trying to design using
+Play! Framework 2.1.4
+
+Suggestions are most welcome! 
